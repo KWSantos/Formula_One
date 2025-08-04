@@ -226,5 +226,5 @@ plt.show()
 
 **[Kauê Santos]**
 
-* [LinkedIn](www.linkedin.com/in/kauê-santos-0a381b25a)
+* [LinkedIn](https://www.linkedin.com/in/kauê-santos-0a381b25a)
 * [GitHub](https://github.com/KWSantos)
